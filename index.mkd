@@ -3,6 +3,7 @@
 - <nhan@nerdyweekly.com>
 - <https://github.com/nhanb>
 
+
 ## Experience
 
 ### Cogini Vietnam
@@ -35,8 +36,8 @@
 - Wrote about various programming-related topics
 - Stack: Pelican, Jinja2
 
-## Education
 
+## Education
 
 ### Royal Melbourne Institute of Technology Vietnam (RMIT Vietnam)
 #### Bachelor of Information Technology (2012 - 2014)
