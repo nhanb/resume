@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Crimson Text'), local('CrimsonText-Roman'),
+         url('fonts/CrimsonText-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Crimson Text Bold'), local('CrimsonText-Bold'),
+         url('fonts/CrimsonText-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Crimson Text Italic'), local('CrimsonText-Italic'),
+         url('fonts/CrimsonText-Italic.ttf') format('truetype');
+}
+
 body {
     font-family: 'Crimson Text';
     font-size: 16px;
