@@ -1,0 +1,47 @@
+body {
+    font-family: 'Crimson Text';
+    font-size: 16px;
+    max-width: 700px;
+}
+
+h2:after
+{
+    content: ' ';
+    display: block;
+    border: 1px solid black;
+}
+
+h2 {
+    font-variant: small-caps;
+    font-weight: normal;
+    font-size: 23px;
+    margin-top: 30px;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+h4 {
+    font-weight: normal;
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-top: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    background-color: #000;
+    color: #fff;
+}
