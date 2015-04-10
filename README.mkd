@@ -24,5 +24,16 @@ To push to GitHub Pages:
 make github
 ```
 
+# TODO
+
+## No PDF?
+
+I'll probably add some LaTeX ligatures into the markdown source and create a
+header file, something similar to [this][3].
+
+As a temporary alternative, any decent browser's "Print to PDF" feature should
+work well enough.
+
 [1]: http://johnmacfarlane.net/pandoc/
 [2]: https://github.com/davisp/ghp-import
+[3]: http://craigeley.com/09-05-2013/formatting-your-cv-with-markdown-and-latex/
