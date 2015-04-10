@@ -1,17 +1,28 @@
-This is my resume. Use [pandoc][1] to compile it into html.
+This is the source code to my resume being served at
+<http://resume.nerdyweekly.com>.
+
+You'll need [pandoc][1] to compile it into html and [ghp-import][2] to push
+results onto the `gh-pages` branch:
+
 
 ```bash
 # Assuming you're on Ubuntu, otherwise you'd probably know how to (google how
 # to) install pandoc on your system of choice.
-sudo apt-get install pandoc
-pandoc -s index.mkd -o html/index.html -c style.css -t html5
+sudo apt-get install pandoc python-pip
+sudo pip install ghp-import
+```
+
+To compile:
+
+```bash
+make html
 ```
 
 To push to GitHub Pages:
 
 ```bash
-sudo pip install ghp-import
-ghp-import -p -n html
+make github
 ```
 
 [1]: http://johnmacfarlane.net/pandoc/
+[2]: https://github.com/davisp/ghp-import
