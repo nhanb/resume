@@ -4,7 +4,7 @@ This is my resume. Use [pandoc][1] to compile it into html.
 # Assuming you're on Ubuntu, otherwise you'd probably know how to (google how
 # to) install pandoc on your system of choice.
 sudo apt-get install pandoc
-pandoc -s index.mkd -o html/index.html -c style.css
+pandoc -s index.mkd -o html/index.html -c style.css -t html5
 ```
 
 To push to GitHub Pages:
