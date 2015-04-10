@@ -1,0 +1,43 @@
+# Bui Thanh Nhan
+
+
+## Experience
+
+### Cogini Vietnam
+#### Web Developer & System Administrator (2014 - 2015)
+
+- Developed web apps and implemented server side API for mobile apps
+- Managed automated deployment
+- Stack: Python, JavaScript, PostreSQL, Chef, Nginx
+
+### RMIT Vietnam IT Club
+#### Vice President (2013)
+
+- Aided President in shaping club visions and missions
+- Co-organized club events: Industrial tours, technical workshops
+- Provided technical/coursework help for junior members
+
+
+## Projects
+
+### Pytaku - Online manga reader & scraper
+#### <https://github.com/nhanb/pytaku>
+
+- Scraped manga data from various sites (kissmanga, batoto, etc.)
+- Developed online reader as a crawler-friendly single-page webapp
+- Stack: Google App Engine, Python (BeautifulSoup), JavaScript (React)
+
+### Nerdy Weekly - Tech blog
+#### <http://www.nerdyweekly.com>
+
+- Wrote about various programming-related topics
+- Stack: Pelican, Jinja2
+
+## Education
+
+
+### Royal Melbourne Institute of Technology Vietnam (RMIT Vietnam)
+#### Bachelor of Information Technology (2012 - 2014)
+
+- Received full scholarship for the whole Bachelor program
+- Graduated with High Distinction

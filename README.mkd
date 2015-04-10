@@ -1,0 +1,7 @@
+This is my resume. Use [pandoc][1] to compile it into html:
+
+```bash
+pandoc -s index.mkd -o html/index.html -c style.css
+```
+
+[1]: http://johnmacfarlane.net/pandoc/
