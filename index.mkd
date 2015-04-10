@@ -25,7 +25,7 @@
 ### Pytaku - Online manga reader & scraper
 #### <https://github.com/nhanb/pytaku>
 
-- Scraped manga data from various sites (kissmanga, batoto, etc.)
+- Scraped manga data from various sites ([kissmanga][1], [batoto][2], etc.)
 - Developed online reader as a crawler-friendly single-page webapp
 - Stack: Google App Engine, Python (BeautifulSoup), JavaScript (React)
 
@@ -43,3 +43,6 @@
 
 - Received full scholarship for the whole Bachelor program
 - Graduated with High Distinction
+
+[1]: http://kissmanga.com/
+[2]: http://bato.to/
