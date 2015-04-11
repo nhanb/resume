@@ -28,7 +28,7 @@
 
 - Scraped manga data from various sites (kissmanga, batoto, etc.)
 - Developed online reader as a crawler-friendly single-page webapp
-- Stack: Google App Engine, Python (BeautifulSoup), JavaScript (React)
+- Stack: Google App Engine, Python (webapp2, BeautifulSoup), JavaScript (React)
 
 ### Nerdy Weekly - Tech blog
 #### <http://www.nerdyweekly.com>
