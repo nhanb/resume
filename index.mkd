@@ -6,14 +6,21 @@
 
 ## Experience
 
-### Cogini Vietnam
+### [Silicon Straits Saigon](https://siliconstraits.vn)
+#### Web Developer (2015)
+
+- Developed single-page web apps - involved in both frontend and backend development
+- Stack: Python (Django REST Framework), JavaScript (React), Jenkins CI
+
+
+### [Cogini](http://www.cogini.com)
 #### Web Developer & System Administrator (2014 - 2015)
 
 - Developed web apps and implemented server side API for mobile apps
 - Managed automated deployment
 - Stack: Python, JavaScript, PostreSQL, Chef, Nginx
 
-### RMIT Vietnam IT Club
+### [RMIT Vietnam IT Club](http://www.rmitc.org/)
 #### Vice President (2013)
 
 - Aided President in shaping club visions and missions
