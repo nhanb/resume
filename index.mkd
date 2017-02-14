@@ -6,12 +6,11 @@
 
 ## Experience
 
-### [Silicon Straits Saigon](https://siliconstraits.vn)
-#### Web Developer (2015)
+### [East Agile Vietnam](https://eastagile.com/)
+#### Web Developer (2016 - 2017)
 
 - Developed single-page web apps - involved in both frontend and backend development
-- Stack: Python (Django REST Framework), JavaScript (React), Jenkins CI
-
+- Stack: Python (Django REST Framework), JavaScript (React), Circle CI, Ansible
 
 ### [Cogini](http://www.cogini.com)
 #### Web Developer & System Administrator (2014 - 2015)
